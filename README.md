@@ -33,6 +33,6 @@ This project is designed specifically for IIT Kanpur students to facilitate onli
 - **Socket.io**: For real-time communication.
 
 ### Deployment
-- **Vercel**: For deploying the web app.
+- **Render**: For deploying the web app.
 
 Thank you for exploring the Health Center Management Web App! Contributions and feedback are welcome.
